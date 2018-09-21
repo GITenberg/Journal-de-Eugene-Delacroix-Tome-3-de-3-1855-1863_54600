@@ -1,0 +1,43 @@
+_repo: Journal-de-Eugene-Delacroix-Tome-3-de-3-1855-1863_54600
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Delacroix, Eugène
+    aliases:
+    - Delacroix, Eugene
+    - Delacroix, Ferdinand Victor Eugène
+    birthdate: 1798
+    deathdate: 1863
+    gutenberg_agent_id: '47658'
+    url: http://www.gutenberg.org/2009/agents/47658
+  editors:
+  - agent_name: Piot, René
+    alias: Piot, Rene
+    birthdate: 1866
+    deathdate: 1934
+    gutenberg_agent_id: '49653'
+    url: http://www.gutenberg.org/2009/agents/49653
+  - agent_name: Flat, Paul
+    birthdate: 1865
+    deathdate: 1918
+    gutenberg_agent_id: '34238'
+    url: http://www.gutenberg.org/2009/agents/34238
+description: ''
+gutenberg_bookshelf:
+- FR Peinture
+- FR Biographie, Mémoires, Journal intime, Correspondance
+gutenberg_issued: '2017-04-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '54600'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Delacroix, Eugène, 1798-1863 -- Diaries'
+- !lcsh 'Painters -- France -- Diaries'
+- !lcc 'ND'
+- GITenberg
+title: "Journal de Eugène Delacroix, Tome 3 (de 3)\r\n1855-1863"
+url: http://www.gutenberg.org/ebooks/54600
